@@ -10,7 +10,7 @@ This program requires Java to compile and run.
 
 **Author:** Mo Balić - [mobalic](https://github.com/mobalic)
 
-This program is based on Text Editor project on JetBrains Academy
+This program is based on Text Editor project on JetBrains Academy.
 
 ## License
 
